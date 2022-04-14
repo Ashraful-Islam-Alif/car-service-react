@@ -1,0 +1,11 @@
+.service-container {
+    border: 2px solid rgb(122, 217, 255);
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.service-container img {
+    border-radius: 20px;
+    width: 100%;
+}
